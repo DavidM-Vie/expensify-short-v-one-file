@@ -8,7 +8,7 @@ import 'react-dates/lib/css/_datepicker.css';
 import { DateRangePicker, SingleDatePicker  } from 'react-dates';
 
 
-// import './seedData'
+import './seedData'
 
 
 function App() {
